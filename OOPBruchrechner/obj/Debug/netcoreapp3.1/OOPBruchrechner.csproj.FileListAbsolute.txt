@@ -1,0 +1,13 @@
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.exe
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.deps.json
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.runtimeconfig.json
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.runtimeconfig.dev.json
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.dll
+D:\Programmierung\git_repos\OOPBruchrechner\bin\Debug\netcoreapp3.1\OOPBruchrechner.pdb
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.csprojAssemblyReference.cache
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.AssemblyInfoInputs.cache
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.AssemblyInfo.cs
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.csproj.CoreCompileInputs.cache
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.dll
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.pdb
+D:\Programmierung\git_repos\OOPBruchrechner\obj\Debug\netcoreapp3.1\OOPBruchrechner.genruntimeconfig.cache

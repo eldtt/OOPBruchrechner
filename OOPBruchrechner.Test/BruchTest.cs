@@ -4,19 +4,23 @@ using OOPBruchrechner;
 
 namespace Test {
     [TestClass]
-    public class BruchTest
-    {
+    public class BruchTest {
         [TestMethod]
-        public void BruchErstellenKonstruktor()
-        {
+        public void BruchErstellenStandardkonstruktor() {
+            var bruch = new Bruch();
+            Assert.AreEqual(0, bruch.Zaehler);
+            Assert.AreEqual(0, bruch.Nenner);
+        }
+
+        [TestMethod]
+        public void BruchErstellenSpezialkonstruktor() {
             var bruch = new Bruch(1, 2);
             Assert.AreEqual(1, bruch.Zaehler);
             Assert.AreEqual(2, bruch.Nenner);
         }
 
         [TestMethod]
-        public void BruchErstellenEigenschaften()
-        {
+        public void BruchErstellenEigenschaften() {
             var bruch = new Bruch() {
                 Zaehler = 1,
                 Nenner = 2
@@ -26,8 +30,7 @@ namespace Test {
         }
 
         [TestMethod]
-        public void BruecheAddieren()
-        {
+        public void BruecheAddieren() {
             var bruch1 = new Bruch(5, 10);
             var bruch2 = new Bruch(5, 10);
 
@@ -50,15 +53,22 @@ namespace Test {
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
-        public void NullImNennerKonstruktor()
-        {
+        public void BruecheAddierenNullImNenner() {
+            var bruch1 = new Bruch();
+            var bruch2 = new Bruch();
+
+            _ = bruch1.Addieren(bruch2);
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(ArgumentException))]
+        public void NullImNennerSpezialkonstruktor() {
             _ = new Bruch(1, 0);
         }
 
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
-        public void NullImNennerEigenschaften()
-        {
+        public void NullImNennerEigenschaften() {
             _ = new Bruch() {
                 Zaehler = 1,
                 Nenner = 0

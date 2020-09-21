@@ -6,7 +6,6 @@ D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\b\OOPB
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\b\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.runtimeconfig.json
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\b\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.runtimeconfig.dev.json
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\b\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.dll
-D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\i\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.csprojAssemblyReference.cache
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\i\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.AssemblyInfoInputs.cache
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\i\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.AssemblyInfo.cs
 D:\Programmierung\git_repos\OOPBruchrechner\.vs\OOPBruchrechner\v16\lut\0\i\OOPBruchrechner.Test\Debug\netcoreapp3.1\OOPBruchrechner.Test.csproj.CopyComplete
