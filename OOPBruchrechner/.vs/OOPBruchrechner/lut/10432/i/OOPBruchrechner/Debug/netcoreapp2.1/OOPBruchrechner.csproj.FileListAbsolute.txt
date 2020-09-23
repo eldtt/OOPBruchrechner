@@ -1,0 +1,10 @@
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\b\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.deps.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\b\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.runtimeconfig.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\b\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.runtimeconfig.dev.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\b\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\b\OOPBruchrechner\Debug\netcoreapp2.1\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\i\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.csproj.CoreCompileInputs.cache
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\i\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.AssemblyInfoInputs.cache
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\i\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.AssemblyInfo.cs
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\i\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.csproj.CopyComplete
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner\.vs\OOPBruchrechner\lut\0\i\OOPBruchrechner\Debug\netcoreapp2.1\OOPBruchrechner.dll

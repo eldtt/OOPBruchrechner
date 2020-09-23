@@ -1,5 +1,5 @@
 ﻿namespace OOPBruchrechner {
-    static class Program {
+    static class MainProgram {
         static void Main() {
             // entry to program
         }

@@ -1,7 +1,8 @@
 ﻿using System;
 
-namespace OOPBruchrechner {
+namespace OOPBruchrechner.Modelle {
     public class Bruch {
+        #region Eigenschaften
         private int nenner;
 
         public int Zaehler { get; set; }
@@ -15,19 +16,41 @@ namespace OOPBruchrechner {
                 }
             }
         }
+        #endregion
 
+        #region Konstruktoren
         public Bruch() { }
 
         public Bruch(int zaehler, int nenner) {
             Zaehler = zaehler;
             Nenner = nenner;
         }
+        #endregion
 
+        #region Worker
         public Bruch Addieren(Bruch andererBruch) {
             int ergebnisZaehler = Zaehler * andererBruch.Nenner + andererBruch.Zaehler * Nenner;
             int ergebnisNenner = Nenner * andererBruch.Nenner;
             Kuerzen(ref ergebnisZaehler, ref ergebnisNenner);
             return new Bruch(ergebnisZaehler, ergebnisNenner);
+        }
+
+        public void Zuweisen(Bruch bruch) {
+            Zaehler = bruch.Zaehler;
+            Nenner = bruch.Nenner;
+        }
+
+        public override string ToString() {
+            return $"({Zaehler}/{Nenner})";
+        }
+
+        public bool Equals(Bruch bruch) {
+            if (Zaehler == bruch.Zaehler && Nenner == bruch.Nenner) {
+                return true;
+            }
+            else {
+                return false;
+            }
         }
 
         private void Kuerzen(ref int zaehler, ref int nenner) {
@@ -67,5 +90,6 @@ namespace OOPBruchrechner {
 
             return 1;
         }
+        #endregion
     }
 }

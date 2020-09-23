@@ -1,0 +1,17 @@
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.Test.deps.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.Test.runtimeconfig.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.Test.runtimeconfig.dev.json
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.Test.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.Test.pdb
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\bin\Debug\netcoreapp2.1\OOPBruchrechner.pdb
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.csprojAssemblyReference.cache
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.csproj.CoreCompileInputs.cache
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.AssemblyInfoInputs.cache
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.AssemblyInfo.cs
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.csproj.CopyComplete
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.dll
+C:\Users\thomas.k2\Source\Repos\OOPBruchrechner\OOPBruchrechner.Test\obj\Debug\netcoreapp2.1\OOPBruchrechner.Test.pdb
