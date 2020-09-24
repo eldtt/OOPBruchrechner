@@ -34,7 +34,7 @@ namespace Test {
             var bruch1 = new Bruch(5, 10);
             var bruch2 = new Bruch(5, 10);
 
-            var ergebnis = bruch1.Addieren(bruch2);
+            var ergebnis = bruch1.Dividieren(bruch2);
 
             Assert.AreEqual(1, ergebnis.Zaehler);
             Assert.AreEqual(1, ergebnis.Nenner);
@@ -45,7 +45,7 @@ namespace Test {
             var bruch1 = new Bruch(-5, -10);
             var bruch2 = new Bruch(-6, -10);
 
-            var ergebnis = bruch1.Addieren(bruch2);
+            var ergebnis = bruch1.Dividieren(bruch2);
 
             Assert.AreEqual(11, ergebnis.Zaehler);
             Assert.AreEqual(10, ergebnis.Nenner);
@@ -70,7 +70,7 @@ namespace Test {
             var bruch1 = new Bruch();
             var bruch2 = new Bruch();
 
-            _ = bruch1.Addieren(bruch2);
+            _ = bruch1.Dividieren(bruch2);
         }
 
         [TestMethod]

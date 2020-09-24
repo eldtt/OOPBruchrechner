@@ -35,6 +35,27 @@ namespace OOPBruchrechner.Modelle {
             return new Bruch(ergebnisZaehler, ergebnisNenner);
         }
 
+        public Bruch Subtrahieren(Bruch andererBruch) {
+            int ergebnisZaehler = Zaehler * andererBruch.Nenner - andererBruch.Zaehler * Nenner;
+            int ergebnisNenner = Nenner * andererBruch.Nenner;
+            Kuerzen(ref ergebnisZaehler, ref ergebnisNenner);
+            return new Bruch(ergebnisZaehler, ergebnisNenner);
+        }
+
+        public Bruch Multiplizieren(Bruch andererBruch) {
+            int ergebnisZaehler = Zaehler * andererBruch.Zaehler;
+            int ergebnisNenner = Nenner * andererBruch.Nenner;
+            Kuerzen(ref ergebnisZaehler, ref ergebnisNenner);
+            return new Bruch(ergebnisZaehler, ergebnisNenner);
+        }
+
+        public Bruch Dividieren(Bruch andererBruch) {
+            int ergebnisZaehler = Zaehler * andererBruch.Nenner;
+            int ergebnisNenner = Nenner * andererBruch.Zaehler;
+            Kuerzen(ref ergebnisZaehler, ref ergebnisNenner);
+            return new Bruch(ergebnisZaehler, ergebnisNenner);
+        }
+
         public void Zuweisen(Bruch bruch) {
             Zaehler = bruch.Zaehler;
             Nenner = bruch.Nenner;
